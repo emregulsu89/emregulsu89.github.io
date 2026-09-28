@@ -1,0 +1,154 @@
+GDocument Privacy Policy / GDocument Gizlilik Politikası
+Effective Date / Yürürlük Tarihi: 29 September 2026 / 29 Eylül 2026
+
+English
+Privacy Policy for GDocument
+GDocument is a document scanning, OCR, viewing, editing, importing, and exporting application for Android. This Privacy Policy explains what information GDocument accesses, how that information is processed, and the choices available to users.
+
+1. Information GDocument Accesses
+GDocument may access the following information only when needed for features you choose to use:
+
+Camera: Used to capture documents for scanning and OCR.
+Files you select: GDocument can open files that you explicitly choose through the Android system file picker, including supported PDF, Word (DOCX), and PowerPoint (PPTX) files.
+Document text and images: Selected or scanned documents may be processed locally to recognize text, display pages, edit text, and create exported files.
+Biometric or device authentication: If you enable App Lock, Android's biometric/device credential system is used to authenticate you. GDocument does not receive or store your fingerprint, face template, PIN, password, or other biometric template data.
+App settings: Preferences such as language, display options, and App Lock status may be stored locally on your device.
+2. OCR and Document Processing
+GDocument performs OCR and document processing on the device using on-device text-recognition components, including Google ML Kit text recognition and offline OCR components for supported scripts.
+
+Document contents are not intentionally uploaded to a GDocument developer server for OCR or editing.
+
+For some file types, GDocument may create temporary local copies or rendered page images in the app's cache so the document can be displayed or processed. These temporary files remain on the device.
+
+3. Data Collection and Sharing
+GDocument does not currently:
+
+require a user account;
+collect names, email addresses, phone numbers, precise location, contacts, or microphone recordings;
+include advertising;
+include third-party advertising SDKs;
+use a developer-operated analytics or tracking service;
+sell personal information;
+sell or share document contents with advertisers or data brokers;
+upload scanned document content to a developer-operated cloud service.
+GDocument includes Google Play's in-app update functionality. When update checking is used, Google Play services may process technical information required to determine whether an update is available. Such processing is governed by Google's own terms and privacy practices.
+
+4. Local Storage
+Documents saved inside GDocument, OCR text, edited text, settings, and related app data may be stored in the application's private storage on your device.
+
+Files that you export as PDF or DOCX are saved to the location you choose. Exported files are standard files and are not additionally encrypted by GDocument. Their security therefore depends on the device, storage location, and apps with which you share or open them.
+
+Deleting a document from GDocument removes the app-managed copy associated with that document. Copies that you exported to another location are not automatically deleted.
+
+5. Android Backup
+GDocument allows Android's standard application backup mechanism. Depending on your Android device and account backup settings, some app-private data may be included in a device or Google account backup.
+
+This backup behavior is controlled by Android and your device/account settings, not by a GDocument-operated cloud server.
+
+6. Permissions
+Depending on the features you use, GDocument may request:
+
+Camera permission — to scan documents.
+Biometric / fingerprint permission — to use Android biometric or device authentication for App Lock.
+GDocument does not request access to your location, microphone, contacts, or call history for its current features.
+
+7. Security
+GDocument is designed to keep document processing local where possible. Reasonable technical measures are used to limit access to app-private files.
+
+However, no device, storage system, or software can guarantee absolute security. Users should avoid storing highly sensitive documents on an unsecured device and should protect exported files appropriately.
+
+8. Children's Privacy
+GDocument is a general productivity application and is not designed to collect personal information from children. The application does not currently require an account or intentionally collect personal information from users for advertising or profiling.
+
+9. Third-Party Components and Services
+GDocument may use Android and Google components required for features such as:
+
+Google ML Kit on-device text recognition;
+Google Play in-app updates;
+Android biometric authentication;
+Android system file selection and storage interfaces.
+These third-party platforms may process limited technical information according to their own privacy policies and platform rules.
+
+10. Changes to This Privacy Policy
+This Privacy Policy may be updated when GDocument features, permissions, or data practices change. The updated policy will be published at the same public location with a revised effective date.
+
+11. Contact
+If you have questions about this Privacy Policy or GDocument's privacy practices, contact:
+
+Email: `[YOUR CONTACT EMAIL]`
+
+Türkçe
+GDocument Gizlilik Politikası
+GDocument; Android cihazlarda belge tarama, OCR ile metin tanıma, belge görüntüleme, metin düzenleme, dosya içe aktarma ve dışa aktarma özellikleri sunan bir uygulamadır. Bu Gizlilik Politikası, GDocument'ın hangi bilgilere eriştiğini, bu bilgilerin nasıl işlendiğini ve kullanıcıların hangi seçeneklere sahip olduğunu açıklar.
+
+1. GDocument'ın Eriştiği Bilgiler
+GDocument yalnızca kullanmayı seçtiğiniz özellikler için gerekli olduğunda aşağıdaki bilgilere erişebilir:
+
+Kamera: Belgeleri taramak ve OCR işlemi yapmak amacıyla kullanılır.
+Sizin seçtiğiniz dosyalar: GDocument, Android'in sistem dosya seçicisi üzerinden açıkça seçtiğiniz desteklenen PDF, Word (DOCX) ve PowerPoint (PPTX) dosyalarını açabilir.
+Belge metinleri ve görselleri: Seçilen veya taranan belgeler; metin tanıma, sayfa görüntüleme, metin düzenleme ve dışa aktarma işlemleri için cihaz üzerinde işlenebilir.
+Biyometrik veya cihaz doğrulaması: Uygulama Kilidi özelliğini etkinleştirirseniz Android'in biyometrik/cihaz kimlik doğrulama sistemi kullanılır. GDocument parmak izinizi, yüz şablonunuzu, PIN'inizi, cihaz şifrenizi veya başka bir biyometrik şablon verisini almaz ve saklamaz.
+Uygulama ayarları: Dil, görünüm seçenekleri ve Uygulama Kilidi durumu gibi tercihler cihazınızda yerel olarak saklanabilir.
+2. OCR ve Belge İşleme
+GDocument, desteklenen alfabelerde metin tanıma işlemlerini cihaz üzerinde çalışan bileşenlerle gerçekleştirir. Bu bileşenler arasında Google ML Kit metin tanıma ve desteklenen alfabeler için çevrimdışı OCR bileşenleri bulunabilir.
+
+Belge içerikleri OCR veya düzenleme amacıyla GDocument geliştiricisine ait bir sunucuya bilerek yüklenmez.
+
+Bazı dosya türlerinin görüntülenebilmesi veya işlenebilmesi için GDocument uygulama önbelleğinde geçici yerel dosyalar veya işlenmiş sayfa görselleri oluşturabilir. Bu geçici dosyalar cihaz üzerinde kalır.
+
+3. Veri Toplama ve Paylaşma
+GDocument şu anda:
+
+kullanıcı hesabı gerektirmez;
+ad, e-posta adresi, telefon numarası, hassas/konum bilgisi, kişiler veya mikrofon kaydı toplamaz;
+reklam göstermez;
+üçüncü taraf reklam SDK'sı içermez;
+geliştirici tarafından işletilen analiz veya kullanıcı takip sistemi kullanmaz;
+kişisel bilgileri satmaz;
+belge içeriklerini reklamverenler veya veri aracılarıyla satmaz ya da paylaşmaz;
+taranan belge içeriklerini geliştirici tarafından işletilen bir bulut hizmetine yüklemez.
+GDocument, Google Play uygulama içi güncelleme özelliğini içerir. Güncelleme kontrolü yapıldığında Google Play hizmetleri, yeni bir sürüm olup olmadığını belirlemek için gerekli sınırlı teknik bilgileri işleyebilir. Bu işlemler Google'ın kendi koşulları ve gizlilik uygulamalarına tabidir.
+
+4. Yerel Depolama
+GDocument içine kaydedilen belgeler, OCR metinleri, düzenlenmiş metinler, ayarlar ve ilgili uygulama verileri cihazınızdaki uygulamaya özel depolama alanında saklanabilir.
+
+PDF veya DOCX olarak dışa aktardığınız dosyalar seçtiğiniz konuma kaydedilir. Dışa aktarılan dosyalar standart dosyalardır ve GDocument tarafından ayrıca şifrelenmez. Bu nedenle bu dosyaların güvenliği cihazınıza, kayıt konumuna ve dosyaları açtığınız veya paylaştığınız uygulamalara bağlıdır.
+
+GDocument içinden bir belgeyi silmek, uygulamanın yönettiği ilgili kopyayı siler. Başka bir konuma dışa aktardığınız dosyalar otomatik olarak silinmez.
+
+5. Android Yedekleme
+GDocument, Android'in standart uygulama yedekleme mekanizmasına izin verir. Android cihazınızın ve hesap yedekleme ayarlarınızın durumuna bağlı olarak bazı uygulama verileri cihaz veya Google hesabı yedeklemesine dahil edilebilir.
+
+Bu yedekleme davranışı GDocument'a ait bir bulut sunucusu tarafından değil, Android ve cihaz/hesap ayarlarınız tarafından yönetilir.
+
+6. İzinler
+Kullandığınız özelliklere bağlı olarak GDocument aşağıdaki izinleri isteyebilir:
+
+Kamera izni — belge taramak için.
+Biyometrik / parmak izi izni — Uygulama Kilidi için Android biyometrik veya cihaz doğrulamasını kullanmak amacıyla.
+GDocument'ın mevcut özellikleri konum, mikrofon, kişiler veya arama geçmişi erişimi istemez.
+
+7. Güvenlik
+GDocument, mümkün olduğunda belge işlemlerini cihaz üzerinde tutacak şekilde tasarlanmıştır. Uygulamaya özel dosyalara erişimi sınırlandırmak için makul teknik önlemler kullanılır.
+
+Bununla birlikte hiçbir cihaz, depolama sistemi veya yazılım mutlak güvenlik garanti edemez. Çok hassas belgelerin güvenli olmayan cihazlarda saklanmaması ve dışa aktarılan dosyaların uygun şekilde korunması önerilir.
+
+8. Çocukların Gizliliği
+GDocument genel amaçlı bir verimlilik uygulamasıdır ve çocuklardan kişisel bilgi toplamak amacıyla tasarlanmamıştır. Uygulama şu anda kullanıcı hesabı gerektirmez ve reklam veya profilleme amacıyla kullanıcılardan bilerek kişisel bilgi toplamaz.
+
+9. Üçüncü Taraf Bileşenleri ve Hizmetleri
+GDocument aşağıdaki özellikler için Android ve Google bileşenlerini kullanabilir:
+
+Google ML Kit cihaz içi metin tanıma;
+Google Play uygulama içi güncellemeler;
+Android biyometrik kimlik doğrulaması;
+Android sistem dosya seçme ve depolama arayüzleri.
+Bu üçüncü taraf platformlar, kendi gizlilik politikaları ve platform kuralları doğrultusunda sınırlı teknik bilgiler işleyebilir.
+
+10. Gizlilik Politikasındaki Değişiklikler
+GDocument'ın özellikleri, izinleri veya veri işleme uygulamaları değiştiğinde bu Gizlilik Politikası güncellenebilir. Güncel politika, yeni yürürlük tarihiyle birlikte aynı herkese açık adreste yayınlanacaktır.
+
+11. İletişim
+Bu Gizlilik Politikası veya GDocument'ın gizlilik uygulamaları hakkında sorularınız için:
+
+E-posta: emregulsu89@gmail.com
